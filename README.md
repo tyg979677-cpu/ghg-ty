@@ -1,4 +1,4 @@
-# Hi there, I'm ghg ty 👋
+# Hi there, I'm Zhangna 👋
 
  An Assistant Professor & PhD Student focusing on Language Intelligence and AI Optimization.
 
